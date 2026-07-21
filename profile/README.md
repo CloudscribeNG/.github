@@ -42,6 +42,10 @@ Because CloudscribeNG is split across many repositories that depend on one anoth
 
 That's why our tooling ([BaseDev](https://github.com/CloudscribeNG/BaseDev)) builds every repository in dependency order against a shared local NuGet feed. This surfaces version conflicts immediately, in one run, rather than as a surprise weeks later in someone else's repo — making it safe to roll package version bumps forward across the entire organization with confidence.
 
+## Roadmap
+
+All of the CloudscribeNG repositories are private at this time, while we work through the rename and modernization process. Once that is complete, we will be opening up the repositories to public access and publishing packages to NuGet.org.
+
 ## Get Involved
 
-CloudscribeNG is a community effort, and contributions are welcome — whether that's code, bug reports, documentation, or just spreading the word. Check the individual repositories for contribution guidelines, and see [BaseDev](https://github.com/CloudscribeNG/BaseDev) for the tooling used to manage the estate as a whole.
+CloudscribeNG is a community effort, and contributions are welcome — whether that's code, bug reports, documentation, or just spreading the word. Once we go public, check the individual repositories for contribution guidelines, and see [BaseDev](https://github.com/CloudscribeNG/BaseDev) for the tooling used to manage the estate as a whole.
