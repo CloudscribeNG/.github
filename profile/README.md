@@ -44,6 +44,10 @@ That's why our tooling ([BaseDev](https://github.com/CloudscribeNG/BaseDev)) bui
 
 ([BaseDev](https://github.com/CloudscribeNG/BaseDev)) is also where we manage the estate's CI/CD pipelines, run automated tests, and publish packages to NuGet.org once the estate is ready for public consumption. And it's where we discuss and track the overall roadmap for CloudscribeNG, so that all contributors can see the big picture and understand how their work fits into the whole.
 
+## Documentation
+
+A first stab at saving the original *cloudscribe* documentation was also undertaken. This is now available (although still Work in Progress) at ([github.io](https://cloudscribeng.github.io)).
+
 ## Roadmap
 
 All of the CloudscribeNG repositories are private at this time, while we work through the rename and modernization process. Once that is complete, we will be opening up the repositories to public access and publishing packages to NuGet.org.
