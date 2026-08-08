@@ -1,8 +1,10 @@
 # CloudscribeNG
 
-<img width="256" height="256" alt="image" src="logos/CloudscribeNG.png" />
-<img width="256" height="256" alt="image" src="logos/CloudscribeNG_1.png" />
-<img width="256" height="256" alt="image" src="logos/CloudscribeNG_2.png" />
+<p align="center">
+  <img width="256" height="256" alt="CloudscribeNG logo" src="logos/CloudscribeNG.png" />
+  <img width="256" height="256" alt="CloudscribeNG logo variant 1" src="logos/CloudscribeNG_1.png" />
+  <img width="256" height="256" alt="CloudscribeNG logo variant 2" src="logos/CloudscribeNG_2.png" />
+</p>
 
 **CloudscribeNG** is a community-driven continuation of the original **cloudscribe** open-source project — a mature, modular ASP.NET Core library ecosystem covering logging, database abstraction, content management, web components, and more.
 
